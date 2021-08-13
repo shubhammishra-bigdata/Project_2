@@ -16,7 +16,8 @@ BY:- Shubham Mishra
   6. Git + GitHub
   
  # Problem Statement
-  1. which hashtag increases twitter traffic
-  2. which account have highest number of followers
-  3. top most active user in twitter
+  1. Analyze the real time streaming tweets on famous personality ( politician or actors )
+  2. Retrieving the trending hashtags of a famous personality
+  3. To fetch the location of a person who has retweeted on particular hashtag.
+  4. top most active user in twitter
  
