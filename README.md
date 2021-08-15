@@ -22,5 +22,6 @@ BY:- Shubham Mishra
   4. To Fetch the location of a person who has retweeted on particular hashtag.
   5. Fetching the user detail who searched the particular name 
 # API & Required Modules
- . Twitter API - for Building Apps and analyzing on twitter streaming & historical data
- . Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter    API with Python. 
+ * Twitter API - for Building Apps and analyzing on twitter streaming & historical data
+ * Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python. 
+
